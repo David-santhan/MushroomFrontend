@@ -205,7 +205,7 @@ function Home() {
                 onMouseEnter={(e) => (e.target.style.backgroundColor = styles.btnUploadHover.backgroundColor)}
                 onMouseLeave={(e) => (e.target.style.backgroundColor = styles.btnUpload.backgroundColor)}
             >
-                Upload Image
+                Get Details
             </button>
 
             <hr style={styles.hr} />
